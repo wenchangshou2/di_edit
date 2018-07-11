@@ -1,0 +1,24 @@
+{
+  "name": "di_edit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenchangshou2/docker_di.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wenchangshou2/docker_di/issues"
+  },
+  "homepage": "https://github.com/wenchangshou2/docker_di#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
